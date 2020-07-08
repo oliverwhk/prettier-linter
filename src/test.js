@@ -1,4 +1,4 @@
-let getTest =  x => x * 2;
+let getTest =  (x, y) =>  x * y *2 ;
 
 const name = 
   "test";
